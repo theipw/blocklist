@@ -107,7 +107,6 @@
 ||opentelemetry.io^
 ||graph.facebook.com^
 ||connect.facebook.net^
-||facebook.com^
 ||firebase-settings.crashlytics.com^
 ||firebaseremoteconfig.googleapis.com^
 ||analytics.google.com^
