@@ -106,3 +106,5 @@
 ||mapbox.mapboxsdk.module.telemetry^
 ||mapbox.mapboxsdk.maps.telemetrydefinition^
 ||adobe.marketing.mobile^
+||stats.whatsapp.com^
+||crashlogs.whatsapp.net^
